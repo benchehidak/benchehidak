@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ben 👋
 
-<!--
-**benchehidak/benchehidak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+## About me
+- 💻 Software engineer focused on building practical, reliable solutions  
+- 🧠 Interested in backend systems, automation, and developer tooling  
+- 🌱 Currently learning and improving every day  
+- 🤝 Open to collaboration on meaningful open-source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m working on
+- Building and improving personal and open-source projects
+- Exploring modern engineering workflows and best practices
+- Sharpening skills in system design and code quality
+
+## Tech stack
+- **Languages:** JavaScript / TypeScript, Python, Java  
+- **Frontend:** React, HTML, CSS  
+- **Backend:** Node.js, REST APIs, Spring Boot  
+- **Tools:** Git, Docker, Linux, CI/CD
+
+## Connect with me
+- 💼 LinkedIn: `https://linkedin.com/in/khaledbenchehida`
+
+---
+Thanks for visiting!

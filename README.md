@@ -14,14 +14,13 @@ Welcome to my GitHub profile.
 - Sharpening skills in system design and code quality
 
 ## Tech stack
-- **Languages:** JavaScript / TypeScript, Python, Go  
+- **Languages:** JavaScript / TypeScript, Python, Java  
 - **Frontend:** React, HTML, CSS  
-- **Backend:** Node.js, REST APIs  
+- **Backend:** Node.js, REST APIs, Spring Boot  
 - **Tools:** Git, Docker, Linux, CI/CD
 
 ## Connect with me
-- 📫 Email: `your-email@example.com`
-- 💼 LinkedIn: `https://linkedin.com/in/your-profile`
+- 💼 LinkedIn: `https://linkedin.com/in/khaledbenchehida`
 
 ---
 Thanks for visiting!

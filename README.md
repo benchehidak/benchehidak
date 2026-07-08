@@ -1,6 +1,8 @@
-# Hi, I'm Ben 👋
+# Hi, I'm Khaled 👋
 
-Welcome to my GitHub profile.
+Software Engineer passionate about building scalable web applications, backend systems, and developer-friendly solutions.
+
+I enjoy turning ideas into production-ready software while continuously learning new technologies and best engineering practices.
 
 ## About me
 - 💻 Software engineer focused on building practical, reliable solutions  
@@ -14,10 +16,11 @@ Welcome to my GitHub profile.
 - Sharpening skills in system design and code quality
 
 ## Tech stack
-- **Languages:** JavaScript / TypeScript, Python, Java  
-- **Frontend:** React, HTML, CSS  
-- **Backend:** Node.js, REST APIs, Spring Boot  
-- **Tools:** Git, Docker, Linux, CI/CD
+- **Languages:** TypeScript / JavaScript, Java, Python, Pascal
+- **Frontend:** Next.js, React, HTML, CSS
+- **Backend:** Spring Boot, Node.js, REST APIs, JWT/RBAC
+- **Data & Messaging:** PostgreSQL, Redis, Elasticsearch, RabbitMQ, MinIO
+- **DevOps & Cloud:** Docker, Kubernetes, Linux, AWS, Azure, CI/CD, Git
 
 ## Connect with me
 - 💼 LinkedIn: `https://linkedin.com/in/khaledbenchehida`

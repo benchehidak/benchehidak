@@ -16,8 +16,8 @@ I enjoy turning ideas into production-ready software while continuously learning
 - Sharpening skills in system design and code quality
 
 ## Tech stack
-- **Languages:** TypeScript / JavaScript, Java, Python, Pascal
-- **Frontend:** Next.js, React, HTML, CSS
+- **Languages:** TypeScript / JavaScript, Java, Python, C, C#
+- **Frontend:** Next.js, React
 - **Backend:** Spring Boot, Node.js, REST APIs, JWT/RBAC
 - **Data & Messaging:** PostgreSQL, Redis, Elasticsearch, RabbitMQ, MinIO
 - **DevOps & Cloud:** Docker, Kubernetes, Linux, AWS, Azure, CI/CD, Git
